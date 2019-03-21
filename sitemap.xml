@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hugotest.ramapuram.net/</loc>
+    <loc>https://hugotest.ramapuram.net/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hugotest.ramapuram.net/series/</loc>
+    <loc>https://hugotest.ramapuram.net/series/</loc>
     <priority>0</priority>
   </url>
   
