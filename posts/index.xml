@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Tom&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 08:01:37 +0530</lastBuildDate>
     
 	<atom:link href="https://hugotest.ramapuram.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Trip</title>
+      <link>https://hugotest.ramapuram.net/posts/my-trip/</link>
+      <pubDate>Fri, 22 Mar 2019 08:01:37 +0530</pubDate>
+      
+      <guid>https://hugotest.ramapuram.net/posts/my-trip/</guid>
+      <description> My Trip+ Create a list by starting a line with +, -, or *  Sub-lists are made by indenting 2 spaces:  Marker character change forces new list start: Ac tristique libero volutpat at  Very easy!  </description>
+    </item>
     
     <item>
       <title>Theme Demo</title>
