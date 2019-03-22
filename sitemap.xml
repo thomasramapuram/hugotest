@@ -3,12 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hugotest.ramapuram.net/</loc>
+    <loc>https://hugotest.ramapuram.net/posts/theme-demo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/series/hugo/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/posts/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hugotest.ramapuram.net/series/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/series/theme/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugotest.ramapuram.net/</loc>
+    <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

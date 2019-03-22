@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Test Site</title>
+    <title>Tom&#39;s Personal Website</title>
     <link>https://hugotest.ramapuram.net/</link>
-    <description>Recent content on Hugo Test Site</description>
+    <description>Recent content on Tom&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hugotest.ramapuram.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Theme Demo</title>
+      <link>https://hugotest.ramapuram.net/posts/theme-demo/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugotest.ramapuram.net/posts/theme-demo/</guid>
+      <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text
+This is italic text
+This is italic text
+Deleted text
+This is text with inline math $\sum_{n=1}^{\infty} 2^{-n} = 1$ and with math blocks:
+$$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
+   Heading Another heading     text text   text text   text text     Block quotes are written like so.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hugotest.ramapuram.net/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugotest.ramapuram.net/projects/</guid>
+      <description>title = &amp;ldquo;Projects&amp;rdquo; slug = &amp;ldquo;projects&amp;rdquo; +++
+Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>https://hugotest.ramapuram.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugotest.ramapuram.net/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hugotest.ramapuram.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugotest.ramapuram.net/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
     
   </channel>
 </rss>
